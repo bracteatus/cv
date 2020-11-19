@@ -1,3 +1,3 @@
-## Jaime Corchado
+# Jaime Corchado
 
-# Social Media
+## Social Media
