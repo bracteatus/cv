@@ -5,13 +5,11 @@
   <link>https://bracteatus.github.io/cv/</link>
   <description>Jaime's CV and resume.</description>
   <language>en-us</language>
-  <image>
-  </image>
   <item>
     <title>First post</title>
     <pubDate>Sat 21 Nov 2020 16:30</pubDate>
     <link>https://bracteatus.github.io/cv/</link>
-    <description><![CDATA[Visit <a href="https://bracteatus.github.io/cv/">link</a>.]]></description>
+    <description><![CDATA[Visit <a href="https://bracteatus.github.io/cv/">link</a>!]]></description>
   </item>
   </channel>
 </rss>
