@@ -5,13 +5,6 @@
     <link>https://bracteatus.github.io/cv/</link>
     <description>Jaime's CV and resume.</description>
     <language>en-us</language>
-    <image>
-      <title>Profile icon</title>
-      <link>https://bracteatus.github.io/cv/</link>
-      <url>./bracteatus-icon.png</url>
-      <width>500</width>
-      <height>500</height>
-    </image>
     <item>
       <title>First post</title>
       <pubDate>Sat 21 Nov 2020 16:30</pubDate>
