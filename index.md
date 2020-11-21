@@ -1,7 +1,7 @@
 # Jaime Corchado
 
 ## Social Media
-[RSS](./feed.xml)
+- Subscribe [RSS](./feed.xml).
 
 ## Skills
 
