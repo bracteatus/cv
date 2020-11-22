@@ -7,6 +7,10 @@
 
 - #FPGA #VerilogHDL #HDL
 
+## Projects
+- November 2020.
+I generate an RSS feed to post updates to the Projects and History sections.
+
 ## History
 
 ### Physics Research Hourly
