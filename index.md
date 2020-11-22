@@ -1,7 +1,7 @@
 # Jaime Corchado
 
 ## Social Media
-- Subscribe [RSS](./feed.xml).
+- Subscribe [RSS](./feed.xml "Open with RSS Reader").
 
 ## Skills
 
