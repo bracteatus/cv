@@ -12,6 +12,13 @@
       <managingEditor>editor@example.com</managingEditor>
       <webMaster>webmaster@example.com</webMaster>
       <item>
+         <title>Twitter included</title>
+         <link>https://twitter.com/tortsnare</link>
+         <description>Find me on Twitter @tortsnare.</description>
+         <pubDate>Sat, 21 Nov 2020 02:30:00 GMT</pubDate>
+         <guid>https://bracteatus.github.io/cv/#twitterincluded</guid>
+      </item>
+      <item>
          <title>RSS included</title>
          <link>https://bracteatus.github.io/cv/</link>
          <description>RSS is distributed on the site.</description>
