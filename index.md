@@ -11,7 +11,7 @@
 
 ## Projects
 ### December 2020.
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m attending the <a href="https://twitter.com/hashtag/Linux?src=hash&amp;ref_src=twsrc%5Etfw">#Linux</a> Foundation Open Source Summit <a href="https://twitter.com/hashtag/Japan?src=hash&amp;ref_src=twsrc%5Etfw">#Japan</a>. <a href="https://t.co/NzKvo02p1D"><img src="./OSS_ALS_JP20_Snackable_111620-03.jpg"/></a></p>&mdash; Jaime Corchado (@tortsnare) <a href="https://twitter.com/tortsnare/status/1332099788519710723?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m attending the <a href="https://twitter.com/hashtag/Linux?src=hash&amp;ref_src=twsrc%5Etfw">#Linux</a> Foundation Open Source Summit <a href="https://twitter.com/hashtag/Japan?src=hash&amp;ref_src=twsrc%5Etfw">#Japan</a>.</p><a href="https://t.co/NzKvo02p1D"><img src="./OSS_ALS_JP20_Snackable_111620-03.jpg"/></a>&mdash; Jaime Corchado (@tortsnare) <a href="https://twitter.com/tortsnare/status/1332099788519710723?ref_src=twsrc%5Etfw">November 26, 2020</a></blockquote>
 
 ### November 2020.
 I generate an RSS feed to post updates to the Projects and History sections.
