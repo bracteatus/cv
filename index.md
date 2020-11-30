@@ -19,7 +19,7 @@
 Jaime developed a graphic to promote insurance sales. ![compensation](./insurance-icon-border-portfolio.jpg)
 
 #### RSS
-I generate an RSS feed to post updates to the Projects and History sections.
+I generate an [RSS](./feed.xml "Open with RSS Reader") feed to post updates to the Projects and History sections.
 
 ## History
 
