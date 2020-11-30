@@ -16,7 +16,7 @@
 ### November 2020.
 
 #### Iconography
-Jaime developed a graphic to promote insurance sales. ![compensation](./insurance-icon-border-portfolio.jpg)
+Jaime developed an SVG graphic to promote insurance sales.
 
 #### RSS
 I generate an [RSS](./feed.xml "Open with RSS Reader") feed to post updates to the Projects and History sections.
